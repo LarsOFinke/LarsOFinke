@@ -21,6 +21,12 @@ A full-stack fleet-operations web application with a Spring Boot API, Vue fronte
 **Technologies:** Java, Spring Boot, Vue 3, PostgreSQL, Flyway, Docker  
 **Worth exploring:** Backend architecture, API boundaries, database migrations, testing, and release tooling.
 
+### [Cooking-Planner](https://github.com/LarsOFinke/Cooking-Planner)
+A local-first desktop application for exploring recipes, planning weekly meals, estimating ingredient costs, and organizing shopping lists. It keeps recipe and price data on the user's device and includes Linux and Windows packaging workflows (currently in alpha testing).
+
+**Technologies:** Python, Kivy, SQLAlchemy, SQLite, GitHub Actions  
+**Worth exploring:** Desktop UI design, local data persistence, frontend/backend separation, automated checks, and cross-platform packaging.
+
 ### [PI-Server-Infrastructure](https://github.com/LarsOFinke/PI-Server-Infrastructure)
 A reproducible setup for Raspberry Pi, Debian, and VPS environments, including containerized services, reverse proxy configuration, monitoring, and backup/restore tooling.
 
@@ -33,7 +39,7 @@ A reproducible setup for Raspberry Pi, Debian, and VPS environments, including c
 | --- | --- |
 | Backend & databases | Java, Spring Boot, REST APIs, SQL, PostgreSQL, Flyway |
 | Scripting & automation | Python, Bash, Linux, SSH |
-| Frontend | Vue 3, JavaScript |
+| Frontend & desktop UI | Vue 3, JavaScript, Kivy |
 | Delivery & operations | Docker, NGINX, GitHub Actions, automated testing |
 
 ## 🧭 How I approach development
@@ -46,4 +52,4 @@ I'm continuing to build my skills in debugging, software design, and creating re
 
 **Junior Java/backend development · Internal tools & automation · Full-stack development**
 
-If you're reviewing my work, the three projects above are the best starting points. Each repository contains implementation details and documentation for a more technical discussion.
+If you're reviewing my work, the four projects above are the best starting points. Each repository contains implementation details and documentation for a more technical discussion.
