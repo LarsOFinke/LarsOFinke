@@ -1,37 +1,61 @@
 # Hi, I'm Lars 👋
 
-**Junior Software Developer | Java Backend · Internal Tools · Linux Automation**  
-📍 Hamburg, Germany
+**Junior Software Developer | Backend · Automation · Linux**
 
-I recently completed a **two-year software-development retraining program** and have continued learning through hands-on projects. I enjoy building practical tools, automating repetitive tasks, and understanding how applications are tested, deployed, and maintained.
+📍 Hamburg, Germany · [Portfolio](https://portfolio-finke.de/)
 
-I'm particularly interested in **junior backend, internal-tools, and automation roles**, with full-stack development as a complementary skill.
+I'm a junior software developer who recently completed a two-year retraining program in software development.
 
-## 🧰 Featured projects
+I enjoy building practical applications and tools, but I'm just as interested in everything around them: **how they're structured, tested, deployed, maintained, and made easier to work with.**
 
-### [Linux-Utilities](https://github.com/LarsOFinke/Linux-Utilities)
-A modular toolkit for Linux workflows, including backups, log analysis, remote connections, and system maintenance. It includes shared installation, update, and uninstallation tooling.
+Most of my projects started because I wanted to understand something better, not because I already knew how to build it. 
+I like experimenting with unfamiliar technologies, figuring out how the pieces fit together, and improving things as I learn.
 
-**Technologies:** Python, Bash, Linux, SSH  
-**Worth exploring:** CLI design, installation safeguards, module structure, and automated verification.
+My main interests are backend development, internal tools, Linux, and automation, with full-stack development as a complementary skill.
+
+## 🧰 Projects I've been working on
+
+These projects reflect different areas I've been exploring. They're also where I've learned much of what I currently know.
 
 ### [WoSB-Website](https://github.com/LarsOFinke/WoSB-Website)
-A full-stack fleet-operations web application with a Spring Boot API, Vue frontend, PostgreSQL database, and supporting test and deployment workflows.
+**Java · Spring Boot · Vue 3 · PostgreSQL · Flyway · Docker**
 
-**Technologies:** Java, Spring Boot, Vue 3, PostgreSQL, Flyway, Docker  
-**Worth exploring:** Backend architecture, API boundaries, database migrations, testing, and release tooling.
+A full-stack fleet operations application with a Spring Boot backend, Vue frontend, and supporting testing and deployment workflows.
 
-### [Cooking-Planner](https://github.com/LarsOFinke/Cooking-Planner)
-A local-first desktop application for exploring recipes, planning weekly meals, estimating ingredient costs, and organizing shopping lists. It keeps recipe and price data on the user's device and includes Linux and Windows packaging workflows (currently in alpha testing).
+An opportunity to explore backend architecture, API design, database migrations, and how an application fits together from development to deployment.
 
-**Technologies:** Python, Kivy, SQLAlchemy, SQLite, GitHub Actions  
-**Worth exploring:** Desktop UI design, local data persistence, frontend/backend separation, automated checks, and cross-platform packaging.
+### [Linux-Utilities](https://github.com/LarsOFinke/Linux-Utilities)
+**Python · Bash · Linux · SSH**
+
+A modular collection of utilities for everyday Linux administration and automation, including backups, log analysis, and remote connections.
+
+Focused on practical scripting, reusable tools, installation safeguards, and making common tasks easier to perform and maintain.
 
 ### [PI-Server-Infrastructure](https://github.com/LarsOFinke/PI-Server-Infrastructure)
-A reproducible setup for Raspberry Pi, Debian, and VPS environments, including containerized services, reverse proxy configuration, monitoring, and backup/restore tooling.
+**Linux · Docker Compose · NGINX · PostgreSQL · Bash**
 
-**Technologies:** Bash, Docker Compose, NGINX, PostgreSQL  
-**Worth exploring:** Setup automation, configuration management, and operational scripts.
+Infrastructure setup and automation for Raspberry Pi, Debian, and VPS environments.
+
+A hands-on way to learn about container networking, service configuration, access restrictions, backups, and what it takes to operate applications beyond the development environment.
+
+### [Cooking-Planner](https://github.com/LarsOFinke/Cooking-Planner)
+**Python · Kivy · SQLite · SQLAlchemy · GitHub Actions**
+
+A local-first desktop application for recipes, meal planning, ingredient costs, and shopping lists.
+
+An experiment in desktop development, local data persistence, UI structure, automated testing, and cross-platform packaging. Currently in alpha testing.
+
+## 🧭 How I approach development
+
+I try to keep things simple, understandable, and maintainable. I value **KISS, pragmatic software design, clear project structures, and a good developer experience** over adding complexity for its own sake.
+
+I also use **AI-assisted development tools and coding agents** extensively. They've become an important part of how I experiment, implement ideas, and learn unfamiliar technologies.
+
+That doesn't mean I treat generated code as automatically correct. I focus on verifying behavior through testing and put more manual attention into areas where mistakes carry greater risks, such as authentication, database changes, networking, and infrastructure configuration.
+
+For routine implementation details, I prefer meaningful tests and behavioral verification over reviewing every line equally.
+
+I'm still developing deeper knowledge in several areas. My projects are one way I work on that: encountering problems, investigating why things work (or don't), and improving my understanding along the way.
 
 ## 🔧 Technologies I've worked with
 
@@ -39,17 +63,15 @@ A reproducible setup for Raspberry Pi, Debian, and VPS environments, including c
 | --- | --- |
 | Backend & databases | Java, Spring Boot, REST APIs, SQL, PostgreSQL, Flyway |
 | Scripting & automation | Python, Bash, Linux, SSH |
-| Frontend & desktop UI | Vue 3, JavaScript, Kivy |
-| Delivery & operations | Docker, NGINX, GitHub Actions, automated testing |
+| Frontend & desktop | Vue 3, JavaScript, Kivy |
+| Infrastructure & delivery | Docker, NGINX, GitHub Actions, CI/CD, automated testing |
 
-## 🧭 How I approach development
+I'm a generalist at this stage, with growing interests in backend development, Linux infrastructure, and the tooling that connects them.
 
-I use **AI-assisted development tools** as part of my workflow and ongoing learning. I aim to understand the code I use, verify behavior through tests, investigate failures, and improve maintainability rather than treating generated output as finished work.
+## 🤝 What I'm looking for
 
-I'm continuing to build my skills in debugging, software design, and creating reliable tools that are useful beyond my own development environment.
+I'm interested in **junior software development, backend, internal tooling, and automation-oriented roles**, including opportunities involving Linux and infrastructure.
 
-## 🤝 What I'm interested in
+I'd like to contribute to useful software while continuing to strengthen my technical fundamentals and learning from more experienced developers.
 
-**Junior Java/backend development · Internal tools & automation · Full-stack development**
-
-If you're reviewing my work, the four projects above are the best starting points. Each repository contains implementation details and documentation for a more technical discussion.
+If you're interested in my work, feel free to explore the repositories or visit my [portfolio](https://portfolio-finke.de/).
